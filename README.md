@@ -56,3 +56,4 @@ composer install
 ```
 
 To run the scrape you can use `php src/Scrape.php`
+# magpie-developer-challenge
